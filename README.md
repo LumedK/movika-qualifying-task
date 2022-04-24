@@ -1,2 +1,4 @@
-Запуск: npm install
-        npm run start
+Запуск: 
+> npm install 
+>
+> npm run start
